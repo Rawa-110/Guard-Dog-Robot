@@ -38,6 +38,12 @@ When the object moves away, the servo returns to its original position.
         ↓                 ↓
    Guard response    Home position
 
+
+<img width="1290" height="2293" alt="8D8F237F-3E70-4C3F-8765-62C49A2EAED7" src="https://github.com/user-attachments/assets/4bf37ad8-8751-4d0e-a047-9127a2b8ada0" />
+
+
+   
+
    Components
 Arduino
 Quadruped Robot Body
